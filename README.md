@@ -13,9 +13,9 @@ Instructions for this project were to create a tidy dataset from an existing dat
 1. Train datasets (X_train, Y_train and subject_train) are merged into a single set.
 1. Test datasets (X_test, Y_test, subject_test) are merged into a single set.
 1. Train and test sets are merged into a single set.
-1. Appropriate labels are givento variable names.
+1. Appropriate labels are given to variable names.
 1. Activity variables are replaced with more descriptive factor equivalents.
-1. A dataset is created storing the averages of each activity measurement for each subject.
+1. A dataset is created, storing the averages of each activity measurement for each subject.
 1. The resulting data is then saved in a text file named 'tidy_data.txt' which can be found in [this repository](https://github.com/gerhardpbez/coursera-GaCD-project).
 
-All these steps meet the criteria of this project.
+These steps are taken to meet the criteria of this project to produce the correct tidy data.
